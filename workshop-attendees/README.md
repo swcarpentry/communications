@@ -1,3 +1,3 @@
 # Workshop attendees
 
-Communication materials addressed to attendees at our workshops.
+Materials addressed to attendees at our workshops.
