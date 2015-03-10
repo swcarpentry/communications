@@ -2,12 +2,13 @@
 
 ##  How did you become involved in SWC?
 
-When I was a graduate student in the Unversity of Madison Wisconsin, my
-advisor, Paul P.H. Wilson, recommended that I watch [this video](). Inspired by
-this, my friends and I in our club, The Hacker Within, created a workshop
-covering the topics that Greg emphasized as essential for scientists. Shortly
-thereafter, he found us when we popped up under search for Software Carpentry.
-A forever friendship was born.
+In 2008, when I was a graduate student in the Unversity of Madison Wisconsin,
+my advisor, Paul P.H. Wilson, recommended that I watch [this
+presentation](https://nanohub.org/resources/1811) that Greg put online while he
+was a professor at UT. Inspired by this, my friends and I, as The Hacker
+Within, created a workshop covering the topics that Greg emphasized as
+essential for scientists. Shortly thereafter, he found us when we popped up
+under search for Software Carpentry.  A forever friendship was born.
 
 ##  What is your most memorable SWC moment?
 
