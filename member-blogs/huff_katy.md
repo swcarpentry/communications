@@ -2,7 +2,7 @@
 
 ##  How did you become involved in SWC?
 
-In 2008, when I was a graduate student in the Unversity of Madison Wisconsin,
+In 2008, when I was a graduate student in the University of Madison Wisconsin,
 my advisor, Paul P.H. Wilson, recommended that I watch [this
 presentation](https://nanohub.org/resources/1811) that Greg put online while he
 was a professor at UT. Inspired by this, my friends and I, as The Hacker
@@ -58,5 +58,5 @@ I'm proud to occasionally contribute to :
 ##  What do you want to be when you grow up?
 
 I would love to be a tenured professor someday. I love being part of the
-conversation at universities. Barrin that, I would be happy to go back to being
+conversation at universities. Barring that, I would be happy to go back to being
 a bike messenger. That was the best job I've ever had.
