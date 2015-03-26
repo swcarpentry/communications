@@ -15,7 +15,10 @@
    id="svg3489"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="SWC_sponsor_badge.svg">
+   sodipodi:docname="SWC_sponsor_badge.svg"
+   inkscape:export-filename="D:\Documents\public_github_repos\communications\misc\SWC_badge\SWC_sponsor_badge.png"
+   inkscape:export-xdpi="74.334396"
+   inkscape:export-ydpi="74.334396">
   <defs
      id="defs3491">
     <clipPath
@@ -93,9 +96,9 @@
      borderopacity="0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.4194696"
-     inkscape:cx="165.97917"
-     inkscape:cy="958.2577"
+     inkscape:zoom="1.5625185"
+     inkscape:cx="-69.402353"
+     inkscape:cy="931.10913"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -126,9 +129,9 @@
        width="276.1008"
        height="145.59006"
        x="1.1053269"
-       y="1.1053272"
+       y="1.1053271"
        rx="12.499076"
-       ry="16.909876"
+       ry="12.5"
        inkscape:export-xdpi="74.334396"
        inkscape:export-ydpi="74.334396" />
     <g
@@ -243,8 +246,8 @@
     <g
        id="g4478"
        mask="url(#mask4199)"
-       transform="translate(0,3.1677944)"
-       style="fill:#2b3990;fill-opacity:0.36046511"
+       transform="translate(0,3.167794)"
+       style="fill:#2b3990;fill-opacity:0.36046514"
        inkscape:export-xdpi="74.334396"
        inkscape:export-ydpi="74.334396">
       <rect
@@ -256,7 +259,7 @@
          height="29.519382"
          width="275.83087"
          id="rect4158"
-         style="fill:#2b3990;fill-opacity:0.36046511;stroke:none;stroke-width:2.48061824;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="fill:#2b3990;fill-opacity:0.36046514;stroke:none;stroke-width:2.48061824;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
   </g>
 </svg>
