@@ -1,0 +1,31 @@
+Over the past five years, Software Carpentry and its sibling
+organization Data Carpentry have run hundreds of two-day workshops on
+basic software skills for more than 10,000 scientists.  Anecdotal
+feedback has been overwhelmingly positive, but anecdotes aren't
+evidence.  While three small-scale studies of Software Carpentry's
+impact have been done, we still don't really know:
+
+* the extent to which the practices and tools we teach are being
+  adopted by scientists,
+
+* how often scientists are passing on what they've learned to
+  colleagues and students, or
+
+* what impact this training is having on their productivity and their
+  ability to tackle new scientific challenges.
+
+Without this insight, we can't tune our curriculum to better fit
+learners' needs, or show funders what the return on their investment
+is.  The worst part, though, is the lost opportunity: we interact with
+thousands of people each year, and we could all learn a lot from
+studying what happens next.
+
+What we need is someone who already understands how to do educational
+assessment or study process change, and who can devote themselves to
+this for six months to a year.  (We have had volunteers do what they
+can, but believe that more insight will only come from concentrated
+effort.)  We can provide access to hundreds or thousands of study
+subjects; the researcher will get publishable results with real-world
+impact, both directly (on our teaching) and indirectly (by shaping
+funders' expectations).  We would welcome introductions to interested
+parties.
