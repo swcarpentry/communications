@@ -1,14 +1,14 @@
-Over the past five years, Software Carpentry and its sibling
-organization Data Carpentry have run hundreds of two-day workshops on
-basic software skills for more than 10,000 scientists.  Anecdotal
-feedback has been overwhelmingly positive, but anecdotes aren't
-evidence.  While three small-scale studies of Software Carpentry's
-impact have been done, we still don't really know:
+Over the past five years, Software Carpentry and Data Carpentry
+have run hundreds of two-day workshops on
+basic software skills for more than 10,000 scientists.  While anecdotal
+feedback has been overwhelmingly positive, anecdotes aren't
+evidence.  And while three small studies of Software Carpentry's
+impact have been conducted, we still don't really know:
 
 * the extent to which the practices and tools we teach are being
   adopted by scientists,
 
-* how often scientists are passing on what they've learned to
+* how often scientists are sharing what they've learned with
   colleagues and students, or
 
 * what impact this training is having on their productivity and their
