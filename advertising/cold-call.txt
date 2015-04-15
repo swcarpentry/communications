@@ -1,0 +1,15 @@
+We are now scheduling Software Carpentry workshops for the second half of 2015, and were wondering if you'd be interested in hosting one.  Our aim is to teach researchers in science, engineering, and medicine the basic computing skills they need to get more done in less time, and with less pain.  Our usual two-day curriculum includes:
+
+* automating repetitive tasks with the Unix shell
+* tracking and sharing work with Git and GitHub
+* building readable, testable, reusable programs in Python, R, or MATLAB
+* managing data with SQL
+
+Our instructors are researchers themselves, and volunteers, so the only cost to host sites is their travel and accommodation, plus a $1250 administration fee to offset instructor training, curriculum development, and so on.  We aim for a maximum of 40 people per workshop so that everything can be hands-on and very interactive.  If this sounds interesting, please contact us at admin@software-carpentry.org or via http://software-carpentry.org/workshops/request.html.
+
+Thanks,
+
+Dr. Greg Wilson
+Software Carpentry
+http://software-carpentry.org
+gvwilson@software-carpentry.org

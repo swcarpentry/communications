@@ -1,0 +1,8 @@
+We are hoping to arrange a Software Carpentry workshop at [SITE] later this year, and would like to find out how many people would be interested in attending.  Software Carpentry's aim is to teach researchers in science, engineering, and medicine the basic computing skills they need to get more done in less time, and with less pain.  Their usual two-day curriculum includes:
+
+* automating repetitive tasks with the Unix shell
+* tracking and sharing work with Git and GitHub
+* building readable, testable, reusable programs in Python, R, or MATLAB
+* managing data with SQL
+
+They aim for a maximum of 40 people per workshop so that everything can be hands-on and very interactive.  If this sounds interesting, please mail [CONTACT ADDRESS].
