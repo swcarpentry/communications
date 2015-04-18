@@ -5,7 +5,7 @@ We are now scheduling Software Carpentry workshops for the second half of 2015, 
 * building readable, testable, reusable programs in Python, R, or MATLAB
 * managing data with SQL
 
-Our instructors are researchers themselves, and volunteers, so the only cost to host sites is their travel and accommodation, plus a $1250 administration fee to offset instructor training, curriculum development, and so on.  We aim for a maximum of 40 people per workshop so that everything can be hands-on and very interactive.  If this sounds interesting, please contact us at admin@software-carpentry.org or via http://software-carpentry.org/workshops/request.html.
+Our instructors are researchers themselves, and volunteers, so the only cost to host sites is their travel and accommodation, plus a $1250 administration fee to offset instructor training, curriculum development, and so on.  We aim for a maximum of 40 people per workshop so that everything can be hands-on and very interactive.  If this sounds interesting, please contact us via http://software-carpentry.org/workshops/request.html or at admin@software-carpentry.org.
 
 Thanks,
 
